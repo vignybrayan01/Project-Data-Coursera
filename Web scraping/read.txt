@@ -1,0 +1,14 @@
+Hands-on lab: Webscraping
+
+Web scraping is used for extraction of relevant data from web pages. If you require some data from a web page in a public domain, web scraping makes the process of data extraction quite convenient. The use of web scraping, however, requires some basic knowledge of the structure of HTML pages. In this lab, you will learn the process of analyzing the HTML code of a web page and how to extract the required information from it using web scraping in Python.
+
+
+Objectives
+
+By the end of this lab, you will be able to:
+
+Use the requests and BeautifulSoup libraries to extract the contents of a web page
+
+Analyze the HTML code of a webpage to find the relevant information
+
+Extract the relevant information and save it in the required form
